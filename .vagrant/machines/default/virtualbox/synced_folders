@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/twer/Downloads/java/sinatra-in-action","disabled":false}}}
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/twer/Downloads/java/sinatra-in-action","disabled":false},"/home/vagrant":{"guestpath":"/home/vagrant","hostpath":"/Users/twer/Downloads/java/sinatra-in-action","disabled":false}}}
